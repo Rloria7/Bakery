@@ -1,0 +1,78 @@
+
+
+/*fondos*/
+.fondo0{
+background-color: #fff;
+}
+.fondo1{
+}
+.solo {
+background-color:#e5d96b;
+}
+.primera{
+background-color: #;
+}
+.primera p{
+text-align: center; 
+}
+.segunda{
+background: url(../imagenes/b1.jpeg);
+background: cover;
+height: 300px;
+}
+.segunda h1{
+line-height: 160px;
+}
+.tercera{
+background-color:#;
+}
+.cuarta{
+background-color:#fff;
+}
+div .cover{
+background-image: url(imagenes/past.jpeg);
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+width: 100% ;
+text-align: center;
+}
+/*control del contenedor*/
+.container-fluid{
+padding-top: 30px;
+padding-bottom:30px;
+}
+.header {
+background: url(../imagenes/Past.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 600px;
+}
+header h1{
+font-size: 65px;
+color: #000;    
+}
+header .btn:hover{
+background: #fff;
+color: aqua;
+}
+.cover h1{
+text-align: center;
+line-height: 300px;
+}
+.titulo1{
+font-size: 50px;
+letter-spacing: 15px;
+}
+.titulo2{
+font-size: 25px;
+}
+.titulo3{
+font-size: 20px;
+}
+footer{
+background: #e5d96b;    
+}
